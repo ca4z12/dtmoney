@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Agiotagem",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-23T22:21:19.760Z"
+    },
+    {
+      "id": 2,
+      "description": "Outro",
+      "type": "outcome",
+      "category": "outro",
+      "price": 555,
+      "createdAt": "2023-01-23T22:19:19.760Z"
+    },
+    {
+      "description": "Comprar a",
+      "price": 10,
+      "category": "Categoria b",
+      "type": "income",
+      "createdAt": "2023-01-24T13:50:46.295Z",
+      "id": 3
+    },
+    {
+      "description": "Comprar b",
+      "price": 22,
+      "category": "Categoria c",
+      "type": "income",
+      "createdAt": "2023-01-24T13:52:17.072Z",
+      "id": 4
+    },
+    {
+      "description": "asd",
+      "price": 1241,
+      "category": "asd",
+      "type": "income",
+      "createdAt": "2023-01-24T13:52:29.690Z",
+      "id": 5
+    },
+    {
+      "description": "Saida a",
+      "price": 1000,
+      "category": "Categoria b",
+      "type": "outcome",
+      "createdAt": "2023-01-24T14:13:33.826Z",
+      "id": 6
+    }
+  ]
+}
